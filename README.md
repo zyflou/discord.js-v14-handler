@@ -59,7 +59,7 @@ module.exports = {
 Events are stored in the `events/ folder`, and organized into `client/` and `guild/` sub-folders. The event handler will automatically register all events from these directories.
 
 # Event Handler
-# (`handler/event.js`)
+**(`handler/event.js`)**
 
 ```javascript
 const { readdirSync, existsSync } = require("fs");
@@ -89,7 +89,7 @@ module.exports = (client) => {
 ```
 
 # Example Events
-# (`events/client/ready.js`)
+**(`events/client/ready.js`)**
 
 This event triggers when the bot is ready.
 
