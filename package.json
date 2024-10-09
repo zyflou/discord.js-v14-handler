@@ -1,0 +1,21 @@
+{
+  "name": "discord.js-v14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "example"
+  ],
+  "author": "zyflou",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
