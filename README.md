@@ -31,7 +31,6 @@ npm install discord.js dotenv
 TOKEN:your-bot-token
 PREFIX:your-bot-prefix
 OWNERID:your-id
-GUILDID:your-guild-id
 ```
 
 4. **Run the bot:**

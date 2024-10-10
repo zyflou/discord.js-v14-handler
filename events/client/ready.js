@@ -1,4 +1,5 @@
 const { ActivityType } = require("discord.js");
+const logStatus = require("../../util/logger");
 
 module.exports = {
     name: "ready",
@@ -15,6 +16,6 @@ module.exports = {
         // Type for the bot status: Listening, Watching, Competing, Playing, Streaming, Custom
         // For Streaming must include a link: https://twitch.tv/username
 
-        console.log(`${client.user.tag}  successfully executed ✅`);
+        logStatus(client);
     }
 };
