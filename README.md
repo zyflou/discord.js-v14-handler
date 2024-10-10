@@ -102,6 +102,18 @@ module.exports = {
 };
 ```
 
+# Contributing
+
+We welcome contributions to improve this project! If you'd like to contribute, please follow these guidelines:
+
+- **Follow the coding style:** Ensure that your code follows the project's existing conventions to maintain consistency.
+- **Document your changes:** For any new features or major updates, please add comments in the code and update the README if necessary.
+- **Test thoroughly:** Before submitting any changes, test them to ensure that everything works properly without introducing new bugs.
+- **Respectful collaboration:** Maintain a respectful tone when interacting with other contributors or maintainers, and be open to feedback.
+- **Open issues for major changes:** If your contribution introduces a significant change or is breaking existing functionality, please open an issue first to discuss the change before proceeding.
+
+If you encounter any bugs or have suggestions for new features, feel free to [open an issue](https://github.com/zyflou/discord.js-v14-handler/issues).
+
 # License
 
-This project is licensed under the ISC License.
+This project is licensed under the [ISC License](https://github.com/zyflou/discord.js-v14-handler?tab=ISC-1-ov-file).
