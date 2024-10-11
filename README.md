@@ -28,9 +28,9 @@ npm install discord.js dotenv
 
 3. **Configure the bot:** Create a .env file in the root directory and add the following values:
 ```bash
-TOKEN:your-bot-token
-PREFIX:your-bot-prefix
-OWNERID:your-id
+TOKEN= #YOUR-DISCORD-BOT-TOKEN
+PREFIX= #YOUR-DISCORD-BOT-PREFIX
+OWNERID= #YOUR-ID
 ```
 
 4. **Run the bot:**

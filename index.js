@@ -19,7 +19,6 @@ const client = new Client({
 });
 
 client.commands = new Collection();
-client.slashCommands = new Collection();
 client.config = config;
 
 
